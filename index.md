@@ -10,9 +10,8 @@ I am a master student (2021.9 - present) in [School of Computer Science and Engi
 My research lies at the intersection of **computer vision** and **machine learning** – with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **spatio-temporal predictive learning**, and **video prediction**.
 
 
-
-
-
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
+
+<!-- {% include_relative _includes/services.md %} -->
