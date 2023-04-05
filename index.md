@@ -4,19 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
 
-## Research Interests
+I am a master student (2021.9 - present) in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) at [Beihang University](https://buaa.edu.cn/) under the supervision of [Prof. Xianglong Liu](https://xlliu-beihang.github.io/). I obtained my BSc degree in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) from [Beihang University](https://buaa.edu.cn/).
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research lies at the intersection of **computer vision** and **machine learning** – with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **few-shot learning**, **spatio-temporal predictive learning**, and **video prediction**.
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+
+
 
 {% include_relative _includes/publications.md %}
 
