@@ -1,16 +1,14 @@
-# The Minimal Light Theme
+# vaynelau.github.io
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
-\[[Demo the theme](https://minimal-light-theme.yliu.me/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
- 
-*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
+
+*This is the source code of my homepage. I build this website based on [minimal-light](https://github.com/yaoyao-liu/minimal-light).*
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
-The latest version of my homepage is available here: [[link](https://github.com/yaoyao-liu/yaoyao-liu.github.io)]
-<br>
-A template for Max Planck Institute for Informatics is available here: [[link](https://github.com/yaoyao-liu/minimal-light-theme-mpi-inf)]
+The latest version of my homepage is available here: [[link](https://github.com/vaynelau/vaynelau.github.io)]
+
 
 ## Features
 
@@ -36,9 +34,6 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 ├── Gemfile                      #  a RubyGems related file
 ├── LICENSE                      #  the license file
 ├── README.md                    #  the readme file (English)
-├── README_de.md                 #  the readme file (German)
-├── README_zh_Hans.md            #  the readme file (Simplified Chinese)
-├── README_zh_Hant.md            #  the readme file (Traditional Chinese)
 ├── _config.yml                  #  the Jekyll configuration file, including some options of the page  
 └── index.md                     #  the content of the index page, using Markdown
 ```
