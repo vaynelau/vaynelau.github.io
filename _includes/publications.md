@@ -56,30 +56,6 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./../assets/img/CRPN.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">IET CV</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12074">Few-shot learning with relation propagation and constraint</a></div>
-      <div class="author">Huiyun Gong, Shuo Wang, Xiaowei Zhao, Yifan Yan, Yuqing Ma, <strong>Wei Liu</strong>, Xianglong Liu</div>
-      <div class="periodical"><em>IET Computer Vision <strong>(IET CV)</strong>, Volume 15, Number 8, 2021.</em>
-      </div>
-    <div class="links">
-      <a href="https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cvi2.12074" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <a href="./../assets/bib_files/CRPN.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<br>
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./../assets/img/TRPN-D.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TNNLS</abbr>
   </div>
@@ -100,6 +76,29 @@
 
 <br>
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./../assets/img/CRPN.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">IET CV</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12074">Few-shot learning with relation propagation and constraint</a></div>
+      <div class="author">Huiyun Gong, Shuo Wang, Xiaowei Zhao, Yifan Yan, Yuqing Ma, <strong>Wei Liu</strong>, Xianglong Liu</div>
+      <div class="periodical"><em>IET Computer Vision <strong>(IET CV)</strong>, Volume 15, Number 8, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cvi2.12074" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="./../assets/bib_files/CRPN.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<br>
 
 
 <li>
