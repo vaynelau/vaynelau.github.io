@@ -7,7 +7,7 @@
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
-The latest version of my homepage is available here: [[link](https://vaynelau.github.io)]
+The latest version of my homepage is available [here](https://vaynelau.github.io).
 
 
 ## Features
