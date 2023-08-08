@@ -9,12 +9,12 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./../assets/img/SeeMore.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Under Review</abbr>
+            <abbr class="badge">SCIS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">SeeMore: a spatio-temporal predictive model with bidirectional distillation and level-specific meta adaptation</div>
       <div class="author">Yuqing Ma, <strong>Wei Liu</strong>, Yajun Gao, Yang Yuan, Shihao Bai, Haotong Qin, Xianglong Liu</div>
-      <div class="periodical"><em>SCIENCE CHINA Information Sciences <strong>(SCIS)</strong>, Under Review.</em>
+      <div class="periodical"><em>SCIENCE CHINA Information Sciences <strong>(SCIS)</strong>, 2023.</em>
       </div>
     <div class="links">
       <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
