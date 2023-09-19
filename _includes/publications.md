@@ -12,14 +12,14 @@
             <abbr class="badge">SCIS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">SeeMore: a spatio-temporal predictive model with bidirectional distillation and level-specific meta adaptation</div>
+      <div class="title"><a href="https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3748-5">SeeMore: a spatio-temporal predictive model with bidirectional distillation and level-specific meta adaptation</a></div>
       <div class="author">Yuqing Ma, <strong>Wei Liu</strong>, Yajun Gao, Yang Yuan, Shihao Bai, Haotong Qin, Xianglong Liu</div>
       <div class="periodical"><em>SCIENCE CHINA Information Sciences <strong>(SCIS)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://engine.scichina.com/doi/pdf/9024F04D908449B1816821A4DF9A0B7B" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/DIG-Beihang/SeeMore" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <!-- <a href="./../assets/bib_files/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <a href="./../assets/bib_files/SeeMore.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
