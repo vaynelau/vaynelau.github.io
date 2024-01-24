@@ -12,7 +12,7 @@
             <abbr class="badge">SCIS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3748-5">SeeMore: a spatio-temporal predictive model with bidirectional distillation and level-specific meta adaptation</a></div>
+      <div class="title"><a href="https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3859-8">SeeMore: a spatio-temporal predictive model with bidirectional distillation and level-specific meta adaptation</a></div>
       <div class="author">Yuqing Ma, <strong>Wei Liu</strong>, Yajun Gao, Yang Yuan, Shihao Bai, Haotong Qin, Xianglong Liu</div>
       <div class="periodical"><em>SCIENCE CHINA Information Sciences <strong>(SCIS)</strong>, 2023.</em>
       </div>
