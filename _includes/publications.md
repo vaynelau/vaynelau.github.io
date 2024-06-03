@@ -145,5 +145,28 @@
 </li>
 
 
+<br>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./../assets/img/SDL.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">智能安全</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="http://znaq.ijournals.cn/znaq/article/abstract/20221229001">基于稳定信息的小数据学习方法</a></div>
+      <div class="author">马宇晴, 张湛舸, <strong>刘卫</strong>, 刘祥龙</div>
+      <div class="periodical"><em>智能安全, Volume 2, Number 1, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="http://znaq.ijournals.cn/znaq/article/pdf/20221229001" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="./../assets/bib_files/SDL.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
 </ol>
 </div>
