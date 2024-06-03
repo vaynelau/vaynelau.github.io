@@ -38,7 +38,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3748-5">A Meaningful Learning Method for Zero-shot Semantic Segmentation</a></div>
       <div class="author">Xianglong Liu, Shihao Bai, Shan An, Shuo Wang, <strong>Wei Liu</strong>, Xiaowei Zhao, Yuqing Ma</div>
-      <div class="periodical"><em>SCIENCE CHINA Information Sciences <strong>(SCIS)</strong>, 2023.</em>
+      <div class="periodical"><em>SCIENCE CHINA Information Sciences <strong>(SCIS)</strong>, Volume 66, Number 11, 2023.</em>
       </div>
     <div class="links">
       <a href="https://www.sciengine.com/doi/pdf/EEA10B752CEB45759ABF20C7612DF36B" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -66,7 +66,6 @@
       </div>
     <div class="links">
       <a href="./../assets/pdf_files/TRPN-D.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/vickyFox/TRPN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="./../assets/bib_files/TRPN-D.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
@@ -108,7 +107,7 @@
             <abbr class="badge">IJCAI</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.ijcai.org/proceedings/2020/0113.pdf">Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration</a></div>
+      <div class="title"><a href="https://www.ijcai.org/proceedings/2020/113">Few-shot Visual Learning with Contextual Memory and Fine-grained Calibration</a></div>
       <div class="author">Yuqing Ma, <strong>Wei Liu</strong>, Shihao Bai, Qingyu Zhang, Aishan Liu, Weimin Chen, Xianglong Liu</div>
       <div class="periodical"><em>Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2020.</em>
       </div>
@@ -132,7 +131,7 @@
             <abbr class="badge">IJCAI</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.ijcai.org/proceedings/2020/0112.pdf">Transductive Relation-Propagation Network for Few-shot Learning</a></div>
+      <div class="title"><a href="https://www.ijcai.org/proceedings/2020/112">Transductive Relation-Propagation Network for Few-shot Learning</a></div>
       <div class="author">Yuqing Ma, Shihao Bai, Shan An, <strong>Wei Liu</strong>, Aishan Liu, Xiantong Zhen, Xianglong Liu</div>
       <div class="periodical"><em>Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2020.</em>
       </div>
