@@ -12,8 +12,6 @@ My research lies at the field of **computer vision** – with a special focus on
 {% include_relative _includes/publications.md %}
 
 
-<!-- {% include_relative _includes/services.md %} -->
-
 
 ## Contact
 
